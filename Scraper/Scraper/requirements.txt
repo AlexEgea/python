@@ -1,0 +1,7 @@
+selenium
+pandas
+webdriver-manager
+matplotlib
+streamlit
+openpyxl
+reportlab
