@@ -9,7 +9,7 @@ The goal of this repository is to organize and showcase my learning progress, pr
 - 📂 Small projects and exercises
 - 📊 Data manipulation (Pandas, CSV, Excel)
 - 🌐 Web scraping (Selenium, BeautifulSoup)
-- 📈 Data visualization (Matplotlib, etc.)
+- 📈 Data visualization
 - ⚙️ Automation scripts
 
 ## 🛠️ Technologies
@@ -21,5 +21,15 @@ The goal of this repository is to organize and showcase my learning progress, pr
 - Matplotlib
 
 ## 📁 Structure
-Each project will be organized in its own folder:
+project-name/
+│── src/
+│── data/
+│── main.py
+│── requirements.txt
+│── README.md
 
+## 📌 Notes
+Projects will be uploaded progressively as I continue learning and improving my skills.
+
+## 👨‍💻 Author
+- GitHub: https://github.com/AlexEgea
