@@ -1,4 +1,4 @@
-# 🚀 API REST Python – ProductHub
+# 🚀 API REST Python – Ejemplo de tienda
 
 <p align="center">
   <strong>Aplicación full stack para gestión de productos</strong><br>
@@ -9,7 +9,7 @@
 
 ## 📌 Descripción
 
-**ProductHub** es una aplicación web que combina un **backend en FastAPI** con un **frontend visual moderno** para gestionar un catálogo de productos.
+**cCommerce** es una aplicación web que combina un **backend en FastAPI** con un **frontend visual moderno** para gestionar un catálogo de productos.
 
 Permite realizar todas las operaciones básicas sobre productos desde una API REST y también desde una interfaz web intuitiva.
 
